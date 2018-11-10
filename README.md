@@ -1,2 +1,3 @@
 # Group_Project1
-test
+Triple Threat Media
+Weather and Map API; Google News API
